@@ -15,7 +15,7 @@ body {
   box-shadow: 5px 5px 5px #888888;
   height: 150px;
   width: 300px;
-  margin: auto;
+  margin: 25px auto;
   padding: 25px 0 25px 25px;
 }
 
@@ -26,6 +26,7 @@ body {
   background-color: black;
   display: inline-block;
   float: left;
+  margin-right: 25px;
 }
 
 .number {
